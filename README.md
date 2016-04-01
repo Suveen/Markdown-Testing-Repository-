@@ -1,10 +1,10 @@
 # Markdown-Testing-Repository-
 
-<h2>Testing Bold and Itallic Text:
+##Testing Bold and Itallic Text:
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-<h2> Create Lists
+## Create Lists
 
 Numbered lists format:
 
@@ -25,7 +25,7 @@ Other ways,
   - And this
   
 
-<h2> Headers and Quotes
+## Headers and Quotes
 
 Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
